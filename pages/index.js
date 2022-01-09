@@ -1,7 +1,5 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import dynamic from 'next/dynamic'
-import styles from '../styles/Home.module.css'
 import tw from 'tailwind-styled-components'
 
 import { Canvas } from "@react-three/fiber";
